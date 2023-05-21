@@ -52,7 +52,7 @@ One natural example is driving on the left vs right side of the road: it doesn't
 
 Now, we are ready to define legitimacy.
 
-> <b style="color:black">Legitimacy is a pattern of higher-order acceptance. An outcome in some social context is _legitimate_ if the people in that social context broadly accept and play their part in enacting that outcome, and each individual person does so because they expect everyone else to do the same</b>.
+> <b>Legitimacy is a pattern of higher-order acceptance. An outcome in some social context is _legitimate_ if the people in that social context broadly accept and play their part in enacting that outcome, and each individual person does so because they expect everyone else to do the same</b>.
 
 Legitimacy is a phenomenon that arises naturally in coordination games. If you're not in a coordination game, there's no reason to act according to your expectation of how other people will act, and so legitimacy is not important. But as we have seen, coordination games are everywhere in society, and so legitimacy turns out to be quite important indeed. In almost any environment with coordination games that exists for long enough, there inevitably emerge some mechanisms that can choose which decision to take. These mechanisms are powered by an established culture that everyone pays attention to these mechanisms and (usually) does what they say. Each person reasons that because _everyone else_ follows these mechanisms, if they do something different they will only create conflict and suffer, or at least be left in a lonely forked ecosystem all by themselves. If a mechanism successfully has the ability to make these choices, then that mechanism has legitimacy.
 
